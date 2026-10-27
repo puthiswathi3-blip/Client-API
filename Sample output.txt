@@ -1,0 +1,16 @@
+Sample Output:
+
+Welcome to the Simple API Client!
+Enter a post ID (1-100): 1
+
+========================================
+           API RESPONSE
+========================================
+Post ID : 1
+User ID : 1
+Title   : Sunt Aut Facere Repellat Provident
+Content : quia et suscipit suscipit recusandae
+          consequuntur expedita et cum
+          reprehenderit molestiae ut ut quas
+          totam nostrum rerum est autem sunt rem
+========================================
